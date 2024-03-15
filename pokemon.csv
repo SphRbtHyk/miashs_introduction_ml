@@ -772,7 +772,7 @@ abilities,against_bug,against_dark,against_dragon,against_electric,against_fairy
 "['Innards Out', 'Unaware']",1,1,1,2,1,1,0.5,1,1,2,1,0.5,1,1,1,1,0.5,0.5,60,3840,70,410,60,Sea Cucumber Pokémon,130,800000,0.3,55,Namakobushiナマコブシ,Pyukumuku,50,771,30,130,5,water,,1.2,7,0
 ['Battle Armor'],1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,95,30720,0,534,3,Synthetic Pokémon,95,1250000,1.9,95,Type: Nullタイプ：ヌル,Type: Null,,772,95,95,59,normal,,120.5,7,0
 ['RKS System'],1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,95,30720,0,570,3,Synthetic Pokémon,95,1250000,2.3,95,Silvadyシルヴァディ,Silvally,,773,95,95,95,normal,,100.5,7,0
-['Shields Down'],0.5,1,1,2,1,1,0.5,0.5,1,1,0,2,0.5,0.5,1,2,2,2,100,6400,70,500,30 (Meteorite)255 (Core),Meteor Pokémon,60,1059860,0.3,60,Metenoメテノ,Minior,,774,100,60,120,rock,flying,40.0,7,0
+['Shields Down'],0.5,1,1,2,1,1,0.5,0.5,1,1,0,2,0.5,0.5,1,2,2,2,100,6400,70,500,30,Meteor Pokémon,60,1059860,0.3,60,Metenoメテノ,Minior,,774,100,60,120,rock,flying,40.0,7,0
 ['Comatose'],1,1,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,1,115,5120,70,480,45,Drowsing Pokémon,65,1250000,0.4,65,Nekkoaraネッコアラ,Komala,50,775,75,95,65,normal,,19.9,7,0
 ['Shell Armor'],0.5,1,2,0.5,1,1,0.25,1,1,0.25,2,1,1,1,1,2,0.5,1,78,5120,70,485,70,Blast Turtle Pokémon,135,1000000,2.0,60,Bakugamesバクガメス,Turtonator,50,776,91,85,36,fire,dragon,212.0,7,0
 "['Iron Barbs', 'Lightningrod', 'Sturdy']",0.5,1,0.5,0.5,0.5,2,2,0.25,1,0.5,4,0.5,0.5,0,0.5,0.5,0.25,1,98,2560,70,435,180,Roly-Poly Pokémon,63,1000000,0.3,65,Togedemaruトゲデマル,Togedemaru,50,777,40,73,96,electric,steel,3.3,7,0
